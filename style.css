@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: gray;
+    /* background-color: black; */
+}
+div{
+    background-color:grey;
+    box-shadow: 0 0 15px;
+    
+}
+h1{
+    text-align: center;
+    font-size: 10rem;
+    padding: 5rem;
+    color: white;
+    text-shadow: 0 0 15px black;
+}
+
+/* mresponsive */
